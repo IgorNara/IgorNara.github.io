@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<xml>
+
+<paciente>
+
+    <nome> Ana Maria Marina </nome>
+    <idade> 7 anos </idade>
+
+<receita> 
+
+<UsoInterno>
+
+    <Remedio> Xarope sem tosse </Remedio>
+    <Frequencia> 1 colher, 3x ao dia </Frequencia>
+
+ <UsoExterno>
+
+    <Remedio1> Gyellow </Remedio1>
+    <Frequencia1> Aplicar no braço 1x ao dia </Frequencia1>
+
+</UsoExterno>
+
+</UsoInterno>
+   
+</receita>
+</paciente>
+
+</xml>
