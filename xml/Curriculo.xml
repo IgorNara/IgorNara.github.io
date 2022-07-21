@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<curriculo>
+
+<DadosPessoais>
+
+    <nomeDoPai> Victor </nomeDoPai>
+    <nomeDaMae> Fabiana </nomeDaMae>
+    <nome> Igor Vieira Nara </nome>
+    <idade> 16 anos </idade>
+    <EstadoCivil> Solteiro </EstadoCivil>
+    <RG> 12.345.678-9 </RG>
+    <CPF> 123.456.789-12 </CPF>
+    <CidadeNatal> Cantagalo </CidadeNatal>
+    <CidadeAtual> Nova Friburgo </CidadeAtual>
+
+</DadosPessoais>
+
+<ContaBancaria> 
+
+    <DadosDoCartao>
+
+        <nome> Igor Nara </nome>
+        <numero> 1234 5678 1234 5678 </numero>
+        <validade> 10/30 </validade>
+        <CVV> 123 </CVV>
+
+    </DadosDoCartao>
+
+</ContaBancaria>
+
+<objetivos>
+
+    <estudo> Terminar o curso de informatica no CEFET-RJ, iniciar e finalizar uma faculdade de especialização. </estudo>   
+    <emprego> Criar uma empresa relacionada a programação, etc. </emprego>
+
+</objetivos>
+
+</curriculo>
